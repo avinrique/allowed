@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    background-color: darkslategrey;
+    text-align: center;
+}
+
+.image1:hover{
+
+}
+    
+h1{
+    font-size: 2.3rem;
+}
+p h2{
+    line-height: 2;
+}
+.elen{
+    width: 60%;
+    margin: 5% 35% 5% auto;
+    text-align: left;
+    color: white;
+
+}
+.imagee{
+    width: 27%;
+    height: 27%;
+    border-radius: 100%;
+    float: left;
+    margin: 0 5% 0 0;
+    
+    
+
+}
+.imagea{
+    width: 27%;
+    height: 27%;
+    border-radius: 100%;
+    float: left;
+    margin: 0 5% 0 0;
+    
+    
+
+}
+
+.elene{
+    line-height: 2;
+    margin: 4% 0 4% 0;
+    padding: 3% 0 0 0 ;
+    
+  
+}
+.imageea{
+    width: 27%;
+    height: 27%;
+    border-radius: 100%;
+    float: left;
+    margin: 0 5% 0 0;
+
+}
+.elena{
+    line-height: 2;
+    margin: 2% 0 4% 0;
+    padding: 2% 0 0 0 ;
+    
+  
+}
